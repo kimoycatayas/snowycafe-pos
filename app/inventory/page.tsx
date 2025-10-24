@@ -122,7 +122,7 @@ export default function InventoryPage() {
     return (
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="flex justify-center items-center h-64">
-          <div className="text-lg">Loading...</div>
+          <div className="text-lg text-gray-900">Loading...</div>
         </div>
       </div>
     );
